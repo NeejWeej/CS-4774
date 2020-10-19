@@ -1,3 +1,3 @@
 # CS-4774
-Machine Learning
+Machine Learning \
 Code developed in class
